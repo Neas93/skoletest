@@ -1,5 +1,5 @@
 if "float?" == False:
-    print("Lucas3")
+    print("Lucas2")
 else:
     print("Mo")
     print("HEJ")
